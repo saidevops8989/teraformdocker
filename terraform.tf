@@ -1,7 +1,7 @@
 terraform {
   required_providers {
     docker = {
-      source  = "sai/docker"   ###source  = "kreuzwerker/docker"####
+      source  = "sai/docker"   ###source  = "sai/docker"####
       version = "~> 3.0.2"
     }
   }
